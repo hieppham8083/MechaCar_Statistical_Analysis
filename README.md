@@ -13,7 +13,7 @@
 ![alt text](../main/ScreenShot_Deliverable2_TotalSummary.png) 
 - T-Test on Suspension Coils(Deliverable3): The P-value (0.06) is greater than presumed significance level (0.05), so there is no sufficient evidence to reject the null hypothesis that there is no statistically different from the mean population results of 1,500 pounds-per-inch. Refer to [T-Test on Suspension Coils Results](../main/ScreenShot_Deliverable3.png)
 - Study Design: MechaCar vs Competition(Deliverable4):
-  1) metrics to be uses: Miles per gallon (mpg), quarter mile second (qsec), hourepower (hp).
+  1) Metrics to be uses: Miles per gallon (mpg), quarter mile second (qsec), hourepower (hp).
   2) The null hypothesis: no relationship between a car price and the units of sales. The alternative hypothesis: would be the opposite., there is a relationship   between a car price and the units of sales.
   3) The statistical test will be used is a linear regression model because it can predicts the mpg of MechaCar prototypes, determine the p-value and the r-squared value for the linear regression model.
   4) The data should be collected from historical sales (sales unit and unit price), then we can analyze the data with visualization. 
