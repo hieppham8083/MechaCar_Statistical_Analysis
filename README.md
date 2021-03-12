@@ -15,5 +15,5 @@
 - Study Design: MechaCar vs Competition.
   1) metrics to be uses: Miles per gallon (mpg), quarter mile second (qsec), hourepower (hp).
   2) The null hypothesis: no relationship between a car price and the units of sales. The alternative hypothesis: would be the opposite., there is a relationship   between a car price and the units of sales.
-  3)The statistical test will be used is a linear regression model because it can predicts the mpg of MechaCar prototypes, determine the p-value and the r-squared value for the linear regression model.
-  4)The data should be collected from historical sales (sales unit and unit price), then we can analyze the data with visualization. 
+  3) The statistical test will be used is a linear regression model because it can predicts the mpg of MechaCar prototypes, determine the p-value and the r-squared value for the linear regression model.
+  4) The data should be collected from historical sales (sales unit and unit price), then we can analyze the data with visualization. 
